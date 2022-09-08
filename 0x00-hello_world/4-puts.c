@@ -10,7 +10,6 @@
 
 int main(void)
 
-{
-    puts("\"programming is likr building a multilingual puzzle");
-    return (0);
+{     
+       puts("\"programming is likr building a multilingual puzzle");                   return (0);
 }    
