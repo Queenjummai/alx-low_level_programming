@@ -13,6 +13,6 @@ int main(void)
 
 {     
        puts("\"programming is likr building a multilingual puzzle");                   
-      return (0); 
+       return (0); 
 	   
 }    
