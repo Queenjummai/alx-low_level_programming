@@ -1,1 +1,2 @@
-0-putchar.c
+cat > main.h
+clear
