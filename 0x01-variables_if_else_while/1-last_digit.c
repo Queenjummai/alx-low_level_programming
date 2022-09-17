@@ -3,10 +3,10 @@
 #include<stdio.h>
 
 /**
-* main - prints random number to variable
-*
-* Return: Always (succesful)
-*/
+ * main - prints random number to variable
+ *
+ * Return: Always (succesful)
+ */
 int main(void)
 {
 	int n, lastd;
@@ -26,6 +26,6 @@ int main(void)
 	{
 		printf("last digit of %d is %d and is less than 6 and not 0\n, n, lastd);
 	
-		return(0);	
+	return(0);	
 }	
 		
